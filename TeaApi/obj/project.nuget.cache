@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8ueG0mznNvkKl9m2lbR/SKSJZK9QNIXhDTnPfTpqxqBJkJXDoDbxrPh9uwzbH/G6pDpQBxaX18Z6WHSTPmBfVA==",
+  "dgSpecHash": "9Zu2zMWF8UVjyLQi0jGj11/0QcihVOnWMIp+fv+ZoybYmco7FgXHo1ORxyAExn6io9PatqzsdHZ8ya+pQbQb3g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\diogo\\OneDrive\\Documentos\\Projetos\\Envoy-Api-Gateway\\TeaApi\\TeaApi.csproj",
+  "projectFilePath": "C:\\Users\\diogo\\OneDrive\\Documentos\\Projetos\\Envoy-Api-Gateway\\teaapi\\TeaApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\diogo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\diogo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

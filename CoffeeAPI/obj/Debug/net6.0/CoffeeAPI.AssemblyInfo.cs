@@ -11,13 +11,13 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("Tea-API-53132bc3-2420-4177-a5d3-360008ec2f66")]
-[assembly: System.Reflection.AssemblyCompanyAttribute("TeaAPI")]
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("Coffee-API-e0ef7928-78cf-49e9-84df-8bbd9234ea84")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("CoffeeAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("TeaAPI")]
-[assembly: System.Reflection.AssemblyTitleAttribute("TeaAPI")]
+[assembly: System.Reflection.AssemblyProductAttribute("CoffeeAPI")]
+[assembly: System.Reflection.AssemblyTitleAttribute("CoffeeAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

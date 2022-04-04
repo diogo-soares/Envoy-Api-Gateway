@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "6pOGMIrrUzu5RFd2IeK2ytD2hj+i0Jw8o1XETIJhdnk=",
-  "Source": "CoffeeAPI",
-  "BasePath": "_content/CoffeeAPI",
+  "Hash": "OII6MnD70yW+m9BDa5oH/9NVWpPUpfH7ShYOOsGRwY8=",
+  "Source": "TeaApi",
+  "BasePath": "_content/TeaApi",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

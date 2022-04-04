@@ -6,15 +6,15 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
-namespace CoffeeAPI.Controllers
+namespace TeaApi.Controllers
 {
-   [ApiController]
+    [ApiController]
     [Route("[controller]")]
-    public class CoffeeController : ControllerBase
+    public class TeaController : ControllerBase
     {
-        private static readonly string[] Coffees = new[]
+        private static readonly string[] Teas = new[]
         {
-            "Flat White", "Long Black", "Latte", "Americano", "Cappuccino"
+            "Green", "Peppermint", "Earl Grey", "English Breakfast", "Camomile"
         };
 
     
@@ -23,7 +23,7 @@ namespace CoffeeAPI.Controllers
         {
             var rng = new Random();
             
-            return Ok(Coffees[rng.Next(Coffees.Length)]);
+            return Ok(Teas[rng.Next(Teas.Length)]);
         }
     }
 }

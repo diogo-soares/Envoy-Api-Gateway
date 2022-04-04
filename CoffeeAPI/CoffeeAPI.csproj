@@ -4,7 +4,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <UserSecretsId>Tea-API-53132bc3-2420-4177-a5d3-360008ec2f66</UserSecretsId>
+    <UserSecretsId>Coffee-API-e0ef7928-78cf-49e9-84df-8bbd9234ea84</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
