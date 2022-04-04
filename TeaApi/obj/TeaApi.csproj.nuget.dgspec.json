@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\diogo\\OneDrive\\Documentos\\Projetos\\Envoy-Api-Gateway\\teaapi\\TeaApi.csproj": {}
+    "C:\\Users\\diogo\\OneDrive\\Documentos\\Projetos\\envoy-api-gateway\\teaapi\\TeaApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\diogo\\OneDrive\\Documentos\\Projetos\\Envoy-Api-Gateway\\teaapi\\TeaApi.csproj": {
+    "C:\\Users\\diogo\\OneDrive\\Documentos\\Projetos\\envoy-api-gateway\\teaapi\\TeaApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diogo\\OneDrive\\Documentos\\Projetos\\Envoy-Api-Gateway\\teaapi\\TeaApi.csproj",
+        "projectUniqueName": "C:\\Users\\diogo\\OneDrive\\Documentos\\Projetos\\envoy-api-gateway\\teaapi\\TeaApi.csproj",
         "projectName": "TeaApi",
-        "projectPath": "C:\\Users\\diogo\\OneDrive\\Documentos\\Projetos\\Envoy-Api-Gateway\\teaapi\\TeaApi.csproj",
+        "projectPath": "C:\\Users\\diogo\\OneDrive\\Documentos\\Projetos\\envoy-api-gateway\\teaapi\\TeaApi.csproj",
         "packagesPath": "C:\\Users\\diogo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diogo\\OneDrive\\Documentos\\Projetos\\Envoy-Api-Gateway\\teaapi\\obj\\",
+        "outputPath": "C:\\Users\\diogo\\OneDrive\\Documentos\\Projetos\\envoy-api-gateway\\teaapi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\diogo\\AppData\\Roaming\\NuGet\\NuGet.Config",
